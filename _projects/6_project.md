@@ -4,7 +4,7 @@ title: project 6
 description: a project with no image
 img:
 importance: 4
-category: fun
+category: Large Language Models
 ---
 
 Every project has a beautiful feature showcase page.
