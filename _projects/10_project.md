@@ -1,4 +1,12 @@
-
+---
+layout: page
+title: Advanced RAG & Flow Enginering
+description: AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.
+img: assets/img/z1.png
+importance: 1
+category: [Generative AI, Extract Transform Load (ETL), Natural Language Processing]
+related_publications: true
+---
 
 
 
