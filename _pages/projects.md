@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Large Language Models, Generative AI, Extract Transform Load (ETL) , Healthcare, Energy]
+display_categories: [Large Language Models, Generative AI, Extract Transform Load (ETL) , Natural lLanguage Processing, Healthcare, Energy]
 horizontal: false
 ---
 
