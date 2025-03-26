@@ -5,7 +5,7 @@ description: AI-powered social knowledge graph, integrating LLMs, RAG, and clust
 img: assets/img/z11.png
 importance: 1
 category: [Generative AI, Extract Transform Load (ETL), Natural Language Processing]
-related_publications: true
+related_publications: false
 ---
 
 <!-- ### **Case Study: AI-Driven Rare Disease Research Collaborative Network** -->
