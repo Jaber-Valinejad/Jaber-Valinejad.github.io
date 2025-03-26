@@ -416,6 +416,11 @@ ninja.data = [{
           title: 'Advanced RAG &amp;amp; Flow Enginering',
           description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-advanced-rag-amp-flow-enginering",
+          title: 'Advanced RAG &amp;amp; Flow Enginering',
+          description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
