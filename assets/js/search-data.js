@@ -457,8 +457,8 @@ ninja.data = [{
           description: "Data-Driven Insights into EMS Response and Outcomes using NEMSIS (2017–2021).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-target-deconclution",
-          title: 'Target Deconclution',
+            },},{id: "projects-target-deconvolution",
+          title: 'Target Deconvolution',
           description: "Generative AI-enhanced biomedical discovery using LLM fine-tuning, and phenotypic screening.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
