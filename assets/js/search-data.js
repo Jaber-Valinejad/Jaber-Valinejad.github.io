@@ -412,9 +412,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-advanced-rag-amp-flow-enginering",
-          title: 'Advanced RAG &amp;amp; Flow Enginering',
-          description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
+          section: "News",},{id: "projects-media-resilience",
+          title: 'Media Resilience',
+          description: "Leveraged large-scale Twitter data, machine learning, and NLP techniques to quantify and compare social–psychological resilience across five countries.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-advanced-rag-amp-flow-enginering",
