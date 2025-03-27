@@ -98,4 +98,6 @@ This project introduces a scalable, data-driven framework for measuring **Social
 - Apply agent-based simulation and deep learning for forecasting resilience trends.
 - Generalize the framework to other domains (e.g., disaster recovery, geopolitical crises).
 
+## Related Publication
 
+{% bibliography --query @valinejad2023spcr %}
