@@ -4,7 +4,7 @@ title: Target Deconvolution
 description: Generative AI-enhanced biomedical discovery using LLM fine-tuning, and phenotypic screening.
 img: assets/img/z9.jpg
 importance: 4
-category: [ Generative AI, Natural Language Processing, Healthcare]
+category: [ Generative AI, Natural Language Processing, Healthcare Data Science]
 ---
 
 <!-- ### **Case Study: Target Identification and Drug Discovery for Rare Diseases** -->
