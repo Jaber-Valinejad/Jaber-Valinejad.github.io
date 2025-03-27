@@ -100,4 +100,4 @@ This project introduces a scalable, data-driven framework for measuring **Social
 
 ## Related Publication
 
-{% bibliography --query @valinejad2023spcr %}
+{% bibliography --query @einstein1920relativity %}
