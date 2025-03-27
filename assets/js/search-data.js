@@ -422,8 +422,8 @@ ninja.data = [{
           description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-biomedical-language-model",
+          title: 'Biomedical Language Model',
           description: "LLM-powered rare disease recognition from NIH-funded research using BioMedBERT, fine-tuned transformers, and graph analytics in Neo4j.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
