@@ -4,7 +4,7 @@ title: SmartGridGuard
 description: Real-Time Anomaly Detection and Insulation Coordination in Power Transmission Networks
 img: assets/img/z6.png
 importance: 4
-category: Energy
+category: Energy Data Science
 ---
 <!-- ### **Case Study: boosting grid reliability with real-time insights.** -->
 
