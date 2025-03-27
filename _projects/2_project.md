@@ -4,7 +4,7 @@ title: Biomedical Language Model
 description: LLM-powered rare disease recognition from NIH-funded research using BioMedBERT, fine-tuned transformers, and graph analytics in Neo4j.
 img: assets/img/z2.png
 importance: 2
-category:  [Generative AI, Natural Language Processing]
+category:  [Generative AI, Natural Language Processing, Healthcare]
 giscus_comments: false
 ---
 
