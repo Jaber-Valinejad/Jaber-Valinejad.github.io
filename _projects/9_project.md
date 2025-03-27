@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Target Deconclution
+title: Target Deconvolution 
 description: Generative AI-enhanced biomedical discovery using LLM fine-tuning, and phenotypic screening.
 img: assets/img/z9.jpg
 importance: 4
