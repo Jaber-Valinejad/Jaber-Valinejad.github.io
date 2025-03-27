@@ -4,7 +4,7 @@ title: Energy market
 description: Multi-Carrier Energy Market Optimization & Bayesian Uncertainty Quantification
 img: assets/img/z5.png
 importance: 3
-category: Energy
+category: Energy Data Science
 ---
 
 <!-- ### **Case Study: Multi-Carrier Energy Market Optimization** -->
