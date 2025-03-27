@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: During my career, I worked on many different projects. Below you see the selected ones. You WILL SEE REPEATED PROJECTS AS THEY WERE TAGGED BY CATEGORY.
 nav: true
 nav_order: 3
 display_categories: [ Generative AI, Extract Transform Load (ETL) , Natural Language Processing, Healthcare Data Science, Energy Data Science ]
