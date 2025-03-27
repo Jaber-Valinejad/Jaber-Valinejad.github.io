@@ -427,9 +427,9 @@ ninja.data = [{
           description: "LLM-powered rare disease recognition from NIH-funded research using BioMedBERT, fine-tuned transformers, and graph analytics in Neo4j.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-community-resilience",
+          title: 'Community Resilience',
+          description: "AI-driven disaster resilience modeling through NLP, social sensing, and critical infrastructure data integration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
