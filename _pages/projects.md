@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects21
-permalink: /projects js/
+title: projects
+permalink: /projects/
 description: During my career, I worked on many different projects. Below you see the selected ones. You WILL SEE REPEATED PROJECTS AS THEY WERE TAGGED BY CATEGORY.
 nav: true
 nav_order: 3
@@ -9,13 +9,7 @@ display_categories: [ Generative AI, Extract Transform Load (ETL) , Natural Lang
 horizontal: false
 ---
 
-# Jaber Valinejad
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up
 
 <!-- pages/projects.md -->
 <div class="projects">
