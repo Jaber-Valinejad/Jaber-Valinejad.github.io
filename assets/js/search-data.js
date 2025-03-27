@@ -452,9 +452,9 @@ ninja.data = [{
           description: "Thyroid Nodule Progression Analysis Using IBM MarketScan and Azure Databricks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ems-response",
+          title: 'EMS Response',
+          description: "Data-Driven Insights into EMS Response and Outcomes using NEMSIS (2017–2021).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
