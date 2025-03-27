@@ -4,7 +4,7 @@ title: EMS Response
 description: Data-Driven Insights into EMS Response and Outcomes using NEMSIS (2017–2021).
 img: assets/img/z8.jpg
 importance: 2
-category: Healthcare
+category: Healthcare Data Science
 giscus_comments: true
 ---
 <!-- ### **Case Study: Fatal and Non-Fatal Opioid Overdose Analysis** -->
