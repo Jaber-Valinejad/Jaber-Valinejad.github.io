@@ -424,7 +424,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          description: "LLM-powered rare disease recognition from NIH-funded research using BioMedBERT, fine-tuned transformers, and graph analytics in Neo4j.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
