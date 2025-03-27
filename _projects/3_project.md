@@ -5,7 +5,7 @@ description: AI-driven disaster resilience modeling through NLP, social sensing,
 img: assets/img/z3.png
 redirect: https://unsplash.com
 importance: 1
-category: [Natural Language Processing, Energy]
+category: [Natural Language Processing, Energy Data Science]
 ---
 
 <!-- ### **Case Study: AI-Driven Rare Disease Research Collaborative Network** -->
