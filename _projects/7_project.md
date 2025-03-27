@@ -4,7 +4,7 @@ title: Thyroid Follow-Up Study
 description: Thyroid Nodule Progression Analysis Using IBM MarketScan and Azure Databricks.
 img: assets/img/z7.png
 importance: 1
-category: Healthcare
+category: Healthcare Data Science
 related_publications: true
 ---
 <!-- ### **Case Study: AI-Driven Rare Disease Research Collaborative Network** -->
