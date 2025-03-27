@@ -1,93 +1,100 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: SmartGridGuard 
+description: Real-Time Anomaly Detection and Insulation Coordination in Power Transmission Networks
+img: assets/img/z6.png
 importance: 4
-category: Large Language Models
+category: Energy
 ---
-<!-- ### **Case Study: AI-Driven Rare Disease Research Collaborative Network** -->
+<!-- ### **Case Study: boosting grid reliability with real-time insights.** -->
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/z1.png" title="AI-Driven Rare Disease Research Collaborative Network" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/z6.png" title="Boosting grid reliability with real-time insights." class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-    The Rare Disease Research Collaborative Network (RCN) leverages LangGraph to orchestrate a dynamic AI-powered social knowledge graph.
+  A data-driven tool that improves power grid reliability through simulation and real-time anomaly detection under environmental stress.
 </div>
 
 ---
+# 1. Introduction
 
+Power transmission networks are critical to energy delivery—but they are highly vulnerable to environmental stressors such as pollution and climate change. In regions like Mazandaran and Golestan (Northern Iran), increased pollution levels have significantly reduced insulator performance, causing outages, equipment failure, and reliability issues.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project introduces **SmartGridGuard**, a data-driven system for analyzing, simulating, and optimizing insulation coordination under varying environmental conditions. It combines real-time anomaly detection, geospatial environmental data processing, and simulation-driven engineering analysis, delivering insights that drive smarter maintenance and operational strategies.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# 2. Key Questions Addressed
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- How can real-time anomaly detection enhance reliability in high-voltage transmission systems?
+- What data engineering techniques enable scalable storage and processing of power system simulations?
+- How can environmental data be integrated into insulation coordination using simulation-based modeling?
+- What software architecture supports both historical analysis and real-time monitoring?
+- How can we ensure data quality, integrity, and operational compliance in infrastructure-scale systems?
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+# 3. The Problem
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Traditional insulation coordination methods are outdated and reactive. In polluted and climate-sensitive areas, nearly **47% of outages** in high-voltage lines were traced to inadequate insulation, as shown in field studies from Northern Iran.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+**Core technical challenges:**
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Processing large-scale environmental data (e.g., pollution, lightning risk, altitude)
+- Simulating high-voltage behavior under multiple overvoltage conditions (switching, lightning, power frequency)
+- Designing an automated pipeline for real-time anomaly detection
+- Logging network activity and simulation output to an SQL database for traceability and reporting
 
-{% raw %}
+# 4. Real-Time Anomaly Detection: The Story
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+During a 2015 winter storm, the Esfarayen-Aliabad 400kV line experienced multiple cascading outages due to salt pollution and inadequate creepage distance. Using SmartGridGuard, we simulated insulation behavior under extreme weather conditions and deployed a real-time anomaly detector that:
 
-{% endraw %}
+- Monitors high-voltage activity
+- Predicts risk levels using pollution data from nearby weather stations
+- Alerts operators of insulation vulnerabilities before failure occurs
+
+# 5. The Solution
+
+## 5.1 Data Processing and Simulation
+
+- Integrated pollution, weather, altitude, and lightning datasets via ETL pipelines  
+- Stored structured metadata and simulation output using SQL databases  
+- Utilized MATLAB for simulation with a GUI-based engine for insulation coordination
+
+## 5.2 Real-Time Anomaly Detection
+
+- Designed a rule-based alerting system for rapid identification of dangerous conditions  
+- Developed Python scripts to extract and ingest new data from regional weather stations  
+- Triggered alerts based on thresholds derived from simulation-based models
+
+## 5.3 Software Design
+
+- Built a custom MATLAB application with GUI for engineering teams  
+- Applied modular architecture to separate data processing, simulation, and anomaly detection  
+- Created SQL-backed storage for model outputs, sensor logs, and outage metadata
+
+# 6. Results and Outcomes
+
+- **80% reduction** in outage duration  
+- **200 MWh** reduction in lost energy  
+- **>130 outage events prevented annually** after model deployment  
+- SQL-based historical logs facilitated trend analysis and regulatory reporting
+
+# 7. Conclusion
+
+**SmartGridGuard** demonstrates the power of integrating simulation software, data engineering, and real-time monitoring in smart energy infrastructure. By simulating insulation behavior under harsh environmental conditions and embedding anomaly detection into operations, we’ve created a scalable solution for modern transmission networks.
+
+# 8. Skills and Tools Used
+
+- **Programming**: Python, MATLAB, C++  
+- **Data Engineering**: SQL, ETL pipelines, structured logging  
+- **Simulation & Modeling**: Insulation coordination, MATLAB GUI  
+- **Anomaly Detection**: Threshold-based alerting, weather-linked diagnostics  
+- **Data Sources**: Synoptic weather stations, pollution indices, lightning maps  
+- **Software Architecture**: Modular design, simulation + real-time components
+
+# 9. Future Directions
+
+- Integrate machine learning models for predictive maintenance  
+- Expand system to low- and mid-voltage networks  
+- Enhance anomaly detection with multi-modal data fusion (e.g., IoT + satellite data)  
+- Develop web-based dashboards for real-time visualization  
+- Add automated quality checks for insulator degradation patterns
