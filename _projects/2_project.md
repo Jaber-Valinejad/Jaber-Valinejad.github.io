@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
+title: Biomedical Language Model
 description: LLM-powered rare disease recognition from NIH-funded research using BioMedBERT, fine-tuned transformers, and graph analytics in Neo4j.
 img: assets/img/z2.png
 importance: 2
-category: Generative AI
+category:  [Generative AI, Natural Language Processing]
 giscus_comments: false
 ---
 
@@ -16,7 +16,7 @@ giscus_comments: false
   </div>
 </div>
 <div class="caption">
-    The Rare Disease Research Collaborative Network (RCN) leverages LangGraph to orchestrate a dynamic AI-powered social knowledge graph.
+    AI-powered pipeline for uncovering rare disease insights from NIH-funded research using LLMs and knowledge graphs.
 </div>
 
 ---
