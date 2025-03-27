@@ -3,7 +3,7 @@ layout: page
 title: Adverse Drug Event 
 description: ETL-Driven Knowledge Graph Construction for Improving Drug Safety and Pharmacovigilance in Rare Diseases
 img: assets/img/z4.png
-importance: 2
+importance: 1
 category: [Extract Transform Load (ETL) , Healthcare Data Science]
 ---
 
