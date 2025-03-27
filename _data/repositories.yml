@@ -4,10 +4,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Jaber-Valinejad/Target_Deconvolution
+  - Jaber-Valinejad/FAERS
+  - Jaber-Valinejad/Social_Network
+  - Jaber-Valinejad/GRANT
+  - Jaber-Valinejad/AI-text-to-video-model-from-scratch
+  - Jaber-Valinejad/vllm
+  - Jaber-Valinejad/RDAS
+  - Jaber-Valinejad/train-deepseek-r1
+  - Jaber-Valinejad/all-rag-techniques
