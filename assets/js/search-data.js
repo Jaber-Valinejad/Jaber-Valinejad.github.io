@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Real-Time Anomaly Detection and Insulation Coordination in Power Transmission Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-thyroid-follow-up-study",
+          title: 'Thyroid Follow-Up Study',
+          description: "Thyroid Nodule Progression Analysis Using IBM MarketScan and Azure Databricks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
