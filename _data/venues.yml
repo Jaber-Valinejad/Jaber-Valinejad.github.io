@@ -9,20 +9,20 @@
   color: "#009f36"
 
 
-"AnnSurg"
+"AnnSurg":
   url: https://journals.lww.com/annalsofsurgery/pages/currenttoc.aspx
   color: "#00369f"
 
-"EPSR"
+"EPSR":
   url: https://www.sciencedirect.com/journal/electric-power-systems-research
   
-"SGEPRI"
+"SGEPRI":
   url: https://www.springer.com/gp
   color: "#009f36"
   
-"IEEE"
+"IEEE":
   url: https://www.ieee.org/
   color: "#00369f"
   
-"WOL"
+"WOL":
   url: https://onlinelibrary.wiley.com/
