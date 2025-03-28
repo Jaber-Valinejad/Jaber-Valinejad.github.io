@@ -3,7 +3,6 @@ layout: page
 title: Community Resilience
 description: AI-driven disaster resilience modeling through NLP, social sensing, and critical infrastructure data integration.
 img: assets/img/z3.png
-redirect: https://unsplash.com
 importance: 1
 category: [Natural Language Processing, Energy Data Science]
 related_publications: true
