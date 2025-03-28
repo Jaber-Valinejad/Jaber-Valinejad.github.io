@@ -167,3 +167,8 @@ This project exemplifies the generative AI lifecycle for domain-specific data sc
 - **Self-Improving Feedback Loops**: Uses self-feedback agents to iteratively refine keyword outputs
 - **Performance Evaluation**: Evaluates generation outputs with multiple semantic and factual metrics
 - **Data Science Integration**: Uses statistical, clustering, and geographic methods to analyze collaboration dynamics
+
+
+
+
+{% bibliography --cited %}
