@@ -5,6 +5,7 @@ description: Multi-Carrier Energy Market Optimization & Bayesian Uncertainty Qua
 img: assets/img/z5.png
 importance: 3
 category: Energy Data Science
+related_publications: true
 ---
 
 <!-- ### **Case Study: Multi-Carrier Energy Market Optimization** -->
@@ -20,14 +21,18 @@ category: Energy Data Science
 
 ---
 
+
+
+
+
 # 1. Introduction
 
-Modern power and energy systems are undergoing rapid transformation due to the rise of renewable energy and distributed infrastructure. This project addresses two critical challenges:
+Modern power and energy systems are undergoing rapid transformation due to the rise of renewable energy and distributed infrastructure {% cite xu2021adaptive %}. This project addresses two critical challenges:
 
-- Long-term investment planning in multi-carrier energy markets (electricity, gas, thermal) under regulatory incentives and strategic competition.
-- Short-term uncertainty quantification in stochastic economic dispatch (SED) with high-dimensional wind power data.
+- Long-term investment planning in multi-carrier energy markets (electricity, gas, thermal) under regulatory incentives and strategic competition {%cite valinejad2017generation %}.
+- Short-term uncertainty quantification in stochastic economic dispatch (SED) with high-dimensional wind power data {%cite valinejad2020coalition %}.
 
-Through a fusion of multi-level optimization, Bayesian machine learning, and manifold learning techniques, this work provides an integrated, computationally efficient solution for resilient, adaptive energy system operations and planning.
+Through a fusion of multi-level optimization, Bayesian machine learning, and manifold learning techniques, this work provides an integrated, computationally efficient solution for resilient, adaptive energy system operations and planning {%cite hu2020bayesian %}.
 
 # 2. Key Questions Addressed
 
@@ -55,7 +60,7 @@ This project targets two distinct but connected layers of power system challenge
 
 # 4. Why It Matters
 
-- **For Policymakers**: Quantifies the effectiveness of financial incentives for clean energy expansion.
+- **For Policymakers**: Quantifies the effectiveness of financial incentives for clean energy expansion {%cite valinejad2019dynamic %}.
 - **For System Operators**: Enables reliable real-time decision-making under renewable variability.
 - **For Industry**: Provides an integrated framework for investment, operation, and forecasting in future grid infrastructure.
 - **For Researchers**: Demonstrates how advanced ML tools can solve hard optimization and simulation problems in power systems.
