@@ -29,10 +29,10 @@ related_publications: true
 
 Modern power and energy systems are undergoing rapid transformation due to the rise of renewable energy and distributed infrastructure {% cite xu2021adaptive %}. This project addresses two critical challenges:
 
-- Long-term investment planning in multi-carrier energy markets (electricity, gas, thermal) under regulatory incentives and strategic competition {%cite valinejad2017generation %}.
-- Short-term uncertainty quantification in stochastic economic dispatch (SED) with high-dimensional wind power data {%cite valinejad2020coalition %}.
+- Long-term investment planning in multi-carrier energy markets (electricity, gas, thermal) under regulatory incentives and strategic competition {% cite valinejad2017generation %}.
+- Short-term uncertainty quantification in stochastic economic dispatch (SED) with high-dimensional wind power data {% cite valinejad2020coalition %}.
 
-Through a fusion of multi-level optimization, Bayesian machine learning, and manifold learning techniques, this work provides an integrated, computationally efficient solution for resilient, adaptive energy system operations and planning {%cite hu2020bayesian %}.
+Through a fusion of multi-level optimization, Bayesian machine learning, and manifold learning techniques, this work provides an integrated, computationally efficient solution for resilient, adaptive energy system operations and planning {% cite hu2020bayesian %}.
 
 # 2. Key Questions Addressed
 
