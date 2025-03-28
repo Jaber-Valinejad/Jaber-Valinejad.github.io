@@ -25,7 +25,7 @@ related_publications: false
 
 ## 1. Introduction
 
-Rare diseases (RDs) affect millions globally, yet research efforts remain fragmented due to limited collaboration and access to specialists. Patients often face long diagnostic delays, and researchers may work in isolation without access to peers with complementary expertise. To address these issues, we developed a Rare Disease Research Collaborative Network (RCN) that integrates data from PubMed, NIH grants, and clinical trials into a knowledge graph using Neo4j.
+Rare diseases (RDs) [@einstein1920relativity] affect millions globally, yet research efforts remain fragmented due to limited collaboration and access to specialists. Patients often face long diagnostic delays, and researchers may work in isolation without access to peers with complementary expertise. To address these issues, we developed a Rare Disease Research Collaborative Network (RCN) that integrates data from PubMed, NIH grants, and clinical trials into a knowledge graph using Neo4j.
 
 By leveraging social network analysis and large language models (LLMs), we cluster researchers based on shared contributions and extract their expertise using prompt-based summarization methods. The result is a labeled, clustered RCN (lc-RCN) that supports both collaboration and specialist recommendation.
 
