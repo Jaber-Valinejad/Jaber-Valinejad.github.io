@@ -5,6 +5,7 @@ description: Real-Time Anomaly Detection and Insulation Coordination in Power Tr
 img: assets/img/z6.png
 importance: 4
 category: Energy Data Science
+related_publications: true
 ---
 <!-- ### **Case Study: boosting grid reliability with real-time insights.** -->
 
@@ -20,7 +21,7 @@ category: Energy Data Science
 ---
 # 1. Introduction
 
-Power transmission networks are critical to energy delivery—but they are highly vulnerable to environmental stressors such as pollution and climate change. In regions like Mazandaran and Golestan (Northern Iran), increased pollution levels have significantly reduced insulator performance, causing outages, equipment failure, and reliability issues.
+Power transmission networks are critical to energy delivery—but they are highly vulnerable to environmental stressors such as pollution and climate change {% cite valinejad2018reconsidering %}. In regions like Mazandaran and Golestan (Northern Iran), increased pollution levels have significantly reduced insulator performance, causing outages, equipment failure, and reliability issues.
 
 This project introduces **SmartGridGuard**, a data-driven system for analyzing, simulating, and optimizing insulation coordination under varying environmental conditions. It combines real-time anomaly detection, geospatial environmental data processing, and simulation-driven engineering analysis, delivering insights that drive smarter maintenance and operational strategies.
 
