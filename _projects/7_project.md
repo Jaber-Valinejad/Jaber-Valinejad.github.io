@@ -21,7 +21,7 @@ related_publications: true
 ---
 # 1. Introduction
 
-Thyroid nodules are a prevalent condition, with many cases requiring careful monitoring and potential surgical intervention. Understanding their progression and the associated treatment patterns is critical for informed clinical decisions. This project analyzes real-world data from IBM MarketScan to uncover insights into thyroid nodule management over time, including population-level trends, comorbidities, and follow-up behaviors. The study leverages distributed computing on Azure Databricks and PySpark to handle and analyze this large-scale claims data efficiently.
+Thyroid nodules are a prevalent condition, with many cases requiring careful monitoring and potential surgical intervention. Understanding their progression and the associated treatment patterns is critical for informed clinical decisions. This project analyzes real-world data from IBM MarketScan to uncover insights into thyroid nodule management over time, including population-level trends, comorbidities, and follow-up behaviors {%cite collins2024unspoken %}. The study leverages distributed computing on Azure Databricks and PySpark to handle and analyze this large-scale claims data efficiently.
 
 # 2. Key Questions Addressed
 
