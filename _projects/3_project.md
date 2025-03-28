@@ -6,6 +6,7 @@ img: assets/img/z3.png
 redirect: https://unsplash.com
 importance: 1
 category: [Natural Language Processing, Energy Data Science]
+related_publications: true
 ---
 
 <!-- ### **Case Study: AI-Driven Rare Disease Research Collaborative Network** -->
@@ -24,7 +25,7 @@ category: [Natural Language Processing, Energy Data Science]
 
 # 1. Introduction
 
-Disasters like hurricanes and floods increasingly disrupt modern communities across cyber, physical, and social domains. Understanding how populations behave and infrastructures perform during crises is essential for emergency response, risk mitigation, and long-term recovery. This project introduces an AI-powered, multi-agent cyber-physical-social resilience model, combining natural language processing, social media analytics, and infrastructure data to assess and predict community resilience.
+Disasters like hurricanes and floods increasingly disrupt modern communities across cyber, physical, and social domains {% cite valinejad2022multi %}. Understanding how populations behave and infrastructures perform during crises is essential for emergency response, risk mitigation, and long-term recovery {% cite valinejad2023computational %}. This project introduces an AI-powered, multi-agent cyber-physical-social resilience model, combining natural language processing, social media analytics, and infrastructure data to assess and predict community resilience {% cite valinejad2023cyber %}.
 
 Using real-world data from Hurricanes Harvey and Irma, we develop a system that models dynamic behavioral and infrastructure responses. Through NLP-based social sensing (Twitter, Google Trends), power utility data, and emergency services reports, we quantify resilience across domains.
 
@@ -38,7 +39,8 @@ Using real-world data from Hurricanes Harvey and Irma, we develop a system that 
 
 # 3. The Problem
 
-Modern cities rely on tightly coupled systems—social networks, digital platforms, and physical infrastructures. During disasters, misinformation, infrastructure failure, and social panic amplify risk. Challenges include:
+
+Modern cities rely on tightly coupled systems—social networks, digital platforms, and physical infrastructures {% cite valinejad2022community %}. During disasters, misinformation, infrastructure failure, and social panic amplify risk {% cite valinejad2021environomic %}. Challenges include:
 
 - **Modeling Human Behavior**: Quantifying fear, cooperation, and adaptability in real time.
 - **Infrastructure Complexity**: Capturing the dependencies between power systems, emergency services, and social networks.
