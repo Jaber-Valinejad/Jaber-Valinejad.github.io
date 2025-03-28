@@ -396,6 +396,11 @@ ninja.data = [{
           description: "Leveraged large-scale Twitter data, machine learning, and NLP techniques to quantify and compare social–psychological resilience across five countries.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-it-can-be-our-project",
+          title: 'It Can Be Our Project!',
+          description: "A collaborative AI-driven initiative tackling real-world challenges.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-advanced-rag-amp-flow-enginering",
           title: 'Advanced RAG &amp;amp; Flow Enginering',
           description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
