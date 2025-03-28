@@ -25,9 +25,10 @@ related_publications: true
 
 # Project Overview
 
-This project introduces a scalable, data-driven framework for measuring **Social–Psychological Community Resilience (SPCR)** using Twitter data collected during the COVID-19 pandemic. By applying advanced natural language processing (NLP) and machine learning (ML) techniques, we assessed public sentiment, misinformation impact, and resilience patterns across five countries: Australia, Singapore, South Korea, the United Kingdom, and the United States.
+This project introduces a scalable, data-driven framework for measuring **Social–Psychological Community Resilience (SPCR)** using Twitter data collected during the COVID-19 pandemic {% cite valinejad2021measuring %}. By applying advanced natural language processing (NLP) and machine learning (ML) techniques, we assessed public sentiment, misinformation impact, and resilience patterns across five countries: Australia, Singapore, South Korea, the United Kingdom, and the United States {% cite valinejad2022measuring % }.
 
 ---
+
 
 ## Key Contributions
 
@@ -35,7 +36,7 @@ This project introduces a scalable, data-driven framework for measuring **Social
 - Proposed and computed a novel metric, **SPCR**, using linguistic features extracted from tweets to quantify community wellbeing and social capital.
 - Applied machine learning classifiers (Passive-Aggressive, Decision Tree, AdaBoost) to detect misinformation with >99.5% accuracy.
 - Demonstrated the impact of accurate vs. fake information on public sentiment and resilience.
-- Generated cross-country resilience profiles and temporal trend analyses using statistical modeling.
+- Generated cross-country resilience profiles and temporal trend analyses using statistical modeling {% cite guo2022effect %}.
 
 ---
 
@@ -66,7 +67,7 @@ This project introduces a scalable, data-driven framework for measuring **Social
 
 ## Results & Insights
 
-- **South Korea** demonstrated the highest SPCR, highlighting the impact of effective governance and social cohesion.
+- **South Korea** demonstrated the highest SPCR, highlighting the impact of effective governance and social cohesion {%cite valinejad2023social %}.
 - Real tweets contributed to significantly higher SPCR scores (up to **80% improvement** vs. fake tweets).
 - Country-specific patterns revealed cultural and policy-driven differences in resilience.
 - Found strong **negative correlation** between misinformation and resilience across all countries.
