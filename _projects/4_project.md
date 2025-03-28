@@ -85,7 +85,7 @@ By engineering a scalable ETL framework, ADE4RD delivers:
 
 # 6. Results and Outcomes
 
-- **Graph Stats**: 17,833 nodes and 19,617 edges across patients, drugs, ADEs, recalls, and rare diseases {% cite 10822513 %}.
+- **Graph Stats**: 17,833 nodes and 19,617 edges across patients, drugs, ADEs, recalls, and rare diseases {% cite jab10822513 %}.
 - **Case Study 1**: In 2019, 6,375 ADEs were reported across 195 rare diseases, with over 3,200 classified as serious.
 - **Case Study 2**: Identified top 10 orphan drugs associated with highest ADEs (e.g., ADALIMUMAB, APREMILAST), including fatal events.
 - **Graph Querying**: Used Cypher to identify event frequency, recall counts, and patient-level reactions.
