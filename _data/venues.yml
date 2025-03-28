@@ -7,3 +7,22 @@
 
 "Vision":
   color: "#009f36"
+
+
+"AnnSurg"
+  url: https://journals.lww.com/annalsofsurgery/pages/currenttoc.aspx
+  color: "#00369f"
+
+"EPSR"
+  url: https://www.sciencedirect.com/journal/electric-power-systems-research
+  
+"SGEPRI"
+  url: https://www.springer.com/gp
+  color: "#009f36"
+  
+"IEEE"
+  url: https://www.ieee.org/
+  color: "#00369f"
+  
+"WOL"
+  url: https://onlinelibrary.wiley.com/
