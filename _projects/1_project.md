@@ -12,7 +12,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/z11.png" title="AI-Driven Rare Disease Research Collaborative Network" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/img1.png" title="AI-Driven Rare Disease Research Collaborative Network" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
@@ -20,6 +20,16 @@ related_publications: false
 </div>
 
 ---
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/z11.png" title="AI-Driven Rare Disease Research Collaborative Network" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+   End-to-End Architecture of the AI-Driven Rare Disease Research Collaborative Network (RCN): This diagram illustrates the data flow from biomedical data sources (PubMed, NIH Grants, Clinical Trials) through graph-based modeling, clustering, expertise summarization with fine-tuned LLMs, and Retrieval-Augmented Generation (RAG) to deliver personalized specialist recommendations using agent-based query parsing.
+</div>
+
 
 
 
