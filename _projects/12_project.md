@@ -3,7 +3,7 @@ layout: page
 title: Blue Horizon AI Concierge
 description: Agentic AI-Powered Virtual Concierge for Luxury Hotels.
 img: assets/img/z11.png
-importance: 2
+importance: 3
 category: [Generative AI]
 related_publications: false
 ---
@@ -12,11 +12,11 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/z11.png" title="AI-Driven Rare Disease Research Collaborative Network" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/z13a.png" title="    Agentic AI-Powered Virtual Concierge for Luxury Hotels" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-    The Rare Disease Research Collaborative Network (RCN) leverages LangGraph to orchestrate a dynamic AI-powered social knowledge graph.
+    Agentic AI-Powered Virtual Concierge for Luxury Hotels.
 </div>
 
 ---
