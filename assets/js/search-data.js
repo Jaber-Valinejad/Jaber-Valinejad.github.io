@@ -401,9 +401,9 @@ ninja.data = [{
           description: "A collaborative AI-driven initiative tackling real-world challenges.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-blue-horizon-ai-concierge",
-          title: 'Blue Horizon AI Concierge',
-          description: "Agentic AI-Powered Virtual Concierge for Luxury Hotels.",
+            },},{id: "projects-agentic-ai-hotelbot",
+          title: 'Agentic AI HotelBot',
+          description: "AI-powered virtual concierge for luxury hotels using GPT, LangGraph agents, LlamaIndex, FastAPI, Redis, and Neon PostgreSQL. Supports room booking, FAQ search, and real-time availability. Deployed via Docker on Hugging Face and AWS ECS.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
             },},{id: "projects-advanced-rag-amp-flow-enginering",
