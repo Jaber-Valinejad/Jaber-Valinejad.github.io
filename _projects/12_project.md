@@ -2,7 +2,7 @@
 layout: page
 title: Blue Horizon AI Concierge
 description: Agentic AI-Powered Virtual Concierge for Luxury Hotels.
-img: assets/img/z11.png
+img: assets/img/z13a.jpg
 importance: 3
 category: [Generative AI]
 related_publications: false
