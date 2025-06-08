@@ -401,6 +401,11 @@ ninja.data = [{
           description: "A collaborative AI-driven initiative tackling real-world challenges.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-blue-horizon-ai-concierge",
+          title: 'Blue Horizon AI Concierge',
+          description: "Agentic AI-Powered Virtual Concierge for Luxury Hotels.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-advanced-rag-amp-flow-enginering",
           title: 'Advanced RAG &amp;amp; Flow Enginering',
           description: "AI-powered social knowledge graph, integrating LLMs, RAG, and clustering pipelines to connect and recommend rare disease specialists.",
