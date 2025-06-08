@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blue Horizon AI Concierge
-description: Agentic AI-Powered Virtual Concierge for Luxury Hotels.
+title: Agentic AI HotelBot
+description: AI-powered virtual concierge for luxury hotels using GPT, LangGraph agents, LlamaIndex, FastAPI, Redis, and Neon PostgreSQL. Supports room booking, FAQ search, and real-time availability. Deployed via Docker on Hugging Face and AWS ECS.
 img: assets/img/z13a.jpg
 importance: 3
 category: [Generative AI]
